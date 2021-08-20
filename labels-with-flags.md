@@ -35,7 +35,7 @@ body {
   <thead>
     <tr>
       <th scope="col"> Cuontry </th>
-      <th scope="col"> Progress </th>
+      <th scope="col"> Market Share </th>
     </tr>
   </thead>
   <tbody>
