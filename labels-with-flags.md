@@ -38,39 +38,39 @@ body {
   </thead>
   <tbody>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/cn.svg" alt="China Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/cn.svg" alt="China Flag"> </th>
       <td style="--size: calc( 2 * 0.4604 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/um.svg" alt="United States Minor Outlying Islands Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/um.svg" alt="United States Minor Outlying Islands Flag"> </th>
       <td style="--size: calc( 2 * 0.1685 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/kz.svg" alt="Kazakhstan Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/kz.svg" alt="Kazakhstan Flag"> </th>
       <td style="--size: calc( 2 * 0.0819 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/ru.svg" alt="Russia Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/ru.svg" alt="Russia Flag"> </th>
       <td style="--size: calc( 2 * 0.0684 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/ir.svg" alt="Iran (Islamic Republic of) Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/ir.svg" alt="Iran (Islamic Republic of) Flag"> </th>
       <td style="--size: calc( 2 * 0.0464 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/my.svg" alt="Malaysia Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/my.svg" alt="Malaysia Flag"> </th>
       <td style="--size: calc( 2 * 0.0344 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/ca.svg" alt="Canada Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/ca.svg" alt="Canada Flag"> </th>
       <td style="--size: calc( 2 * 0.03 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/de.svg" alt="Germany Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="Germany Flag"> </th>
       <td style="--size: calc( 2 * 0.0281 );"></td>
     </tr>
     <tr>
-      <th scope="row"> <img class="flag" src="https://lipis.github.io/flag-icon-css/flags/4x3/ie.svg" alt="Ireland Flag"> </th>
+      <th scope="row"> <img class="flag" src="https://flagicons.lipis.dev/flags/4x3/ie.svg" alt="Ireland Flag"> </th>
       <td style="--size: calc( 2 * 0.0227;"></td>
     </tr>
     <tr>
